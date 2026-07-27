@@ -42,7 +42,7 @@ This lab introduced the fundamentals of Artificial Intelligence (AI) and Machine
 |------|-------------|
 | `AI_in_Security_Completion.png` | Completion certificate for the **AI in Security** TryHackMe room. |
 | `AI_in_Security_Threats_Completion.png` | Completion certificate for the **AI/ML Security Threats** TryHackMe room. |
-| `Advent_of_Cyber_Task7_Task8.jpg` | Screenshot showing completion of Advent of Cyber Task 7 (Machine Learning) and Task 8 (Log Analysis). |
+| `Advent_of_Cyber_Task7_Task8.jpeg` | Screenshot showing completion of Advent of Cyber Task 7 (Machine Learning) and Task 8 (Log Analysis). |
 
 ---
 
